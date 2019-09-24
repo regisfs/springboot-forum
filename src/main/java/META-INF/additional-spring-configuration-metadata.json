@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "springng.jpa.properties.hibernate.format",
+    "type": "java.lang.String",
+    "description": "A description for 'springng.jpa.properties.hibernate.format'"
+  },
+  {
+    "name": "springpa.properties.hibernate.show_sql",
+    "type": "java.lang.String",
+    "description": "A description for 'springpa.properties.hibernate.show_sql'"
+  }
+]}
