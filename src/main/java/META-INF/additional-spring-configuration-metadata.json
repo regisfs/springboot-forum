@@ -8,5 +8,15 @@
     "name": "springpa.properties.hibernate.show_sql",
     "type": "java.lang.String",
     "description": "A description for 'springpa.properties.hibernate.show_sql'"
+  },
+  {
+    "name": "forum.jwt.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'forum.jwt.secret'"
+  },
+  {
+    "name": "forum.jwt.expiration",
+    "type": "java.lang.String",
+    "description": "A description for 'forum.jwt.expiration'"
   }
 ]}

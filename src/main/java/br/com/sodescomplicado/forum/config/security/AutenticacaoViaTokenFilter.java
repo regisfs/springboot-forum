@@ -65,7 +65,5 @@ public class AutenticacaoViaTokenFilter extends OncePerRequestFilter{
 		//Remove o Bearer da string e retorna so o token
 		return token.substring(7, token.length());
 	}
-
-	
 	
 }
